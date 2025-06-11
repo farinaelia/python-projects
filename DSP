@@ -1,0 +1,37 @@
+For project Extrovert Vs. Introvert, this is the overview of the assignment.
+
+Questions:
+
+1.0 Project Overview and Instructions
+
+You are required to prepare a Data Science Principles Project report and Python program demonstrating your skills in data science using Google Colab.
+
+2.0 Project Report Requirements
+
+Your project report should cover the following components, with a total of 30% marks distributed across various sections. Each component is weighted according to its importance, as detailed in the rubric. The report organisation should follow the given rubric.
+
+You may refer to the following resources for project ideas and datasets. However, you can choose data from any suitable source.
+
+Suggested Data Sources:
+
+•	UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets.html
+•	Kaggle Datasets: https://www.kaggle.com/ 
+
+Example Datasets:
+
+1.	Deep Learning CNN for Brain Tumor Detection: https://www.kaggle.com/code/onesinustamba/deep-learning-cnn-dcnn-for-brain-tumor-detection 
+
+2.	Medical Image Dataset for Brain Tumor Detection: https://www.kaggle.com/datasets/pkdarabi/medical-image-dataset-brain-tumor-detection/code 
+
+3.	Melanoma Analysis and Model: https://www.kaggle.com/code/saife245/melanoma-detail-analysis-eda-ip-augmentation-model 
+
+4.	Smoker Lung Cancer Stage Detection: https://www.kaggle.com/code/sasakitetsuya/smoker-lung-cancer-stage-detection-model 
+
+5.	COVID mRNA Vaccine Analysis: https://www.kaggle.com/code/itsuki9180/mvan-covid-mrna-vaccine-analysis-notebook-268 
+
+6.	Pulmonary DICOM Preprocessing: https://www.kaggle.com/code/allunia/pulmonary-dicom-preprocessing 
+
+Note:
+
+If using image datasets, consider converting them to CSV files using libraries that support such transformations.
+
